@@ -2313,3 +2313,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.18-18.29.15:750][ 92]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (SkySphereBlueprint)
 [2020.10.18-18.29.24:525][351]LogSlate: Window 'Message Log' being destroyed
 [2020.10.18-18.29.24:570][351]LogSlate: Window 'Message Log' being destroyed
+[2020.10.18-18.29.53:768][958]LogSlate: Window 'Source Control Login' being destroyed
+[2020.10.18-18.29.57:432][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.10.18-18.29.57:472][ 83]LogSavePackage: Moving 'D:/RESPALDOS/Anahuac/7mo semestre/Videogame Animation/Unreal/Mapita/Mapita/Saved/ThirdPersonExampleMap3B71CA0947155890D1883EB699C03D08.tmp' to 'D:/RESPALDOS/Anahuac/7mo semestre/Videogame Animation/Unreal/Mapita/Mapita/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.18-18.29.58:582][ 83]LogSavePackage: Moving 'D:/RESPALDOS/Anahuac/7mo semestre/Videogame Animation/Unreal/Mapita/Mapita/Saved/ThirdPersonExampleMap_BuiltData12FC10CC4E5B508F3DA4EF9538E1DD4F.tmp' to 'D:/RESPALDOS/Anahuac/7mo semestre/Videogame Animation/Unreal/Mapita/Mapita/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.10.18-18.29.58:620][ 83]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.18-18.29.58:620][ 83]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.10.18-18.29.58:620][ 83]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
